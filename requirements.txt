@@ -1,0 +1,9 @@
+pandas
+matplotlib
+numpy
+tensorflow>=2.0
+keras
+pillow
+matplotlib    # For visualizing results (e.g., accuracy/loss plots)
+opencv-python # For advanced image preprocessing, if required
+scipy         # Used in advanced image augmentations
