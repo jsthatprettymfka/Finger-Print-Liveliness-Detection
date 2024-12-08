@@ -66,3 +66,7 @@ Run the notebook step-by-step in a Jupyter Notebook or an IDE supporting `.ipynb
 ## Results
 
 The notebook evaluates the model on the test dataset and outputs accuracy metrics.
+
+## Author
+
+Nandini Bhalla
